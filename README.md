@@ -8,6 +8,7 @@
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mjhosawa&show_icons=true&theme=default#gh-light-mode-only" style="max-width: 100%;"/>
+
 #### Languages
 #### Tools and Frameworks
 
