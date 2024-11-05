@@ -1,11 +1,4 @@
-<p align="left">
-  <a href="https://github.com/mjhosawa/mjhosawa">
-    <img alt="Mohammed Jhosawa" src="./assets/img/hi.svg"/></a>
-</p>
-<p align="left">
-  <a href="https://github.com/mjhosawa/mjhosawa">
-    <img alt="Mohammed Jhosawa" src="./assets/img/intro.svg"/></a>
-</p>
+Hi I'm Mohammed, a full stack software engineer!
 
 #### Languages
 
